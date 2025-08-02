@@ -209,7 +209,7 @@ const AIInsights = () => {
           <div className='flex items-center justify-center gap-2 text-sm text-gray-500 dark:text-gray-400'>
             <div className='w-1.5 h-1.5 bg-emerald-500 dark:bg-emerald-400 rounded-full animate-pulse'></div>
             <span className='text-xs sm:text-sm'>
-              AI is analyzing your financial patterns...
+             Analyzing your financial patterns...
             </span>
           </div>
         </div>

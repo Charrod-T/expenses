@@ -76,7 +76,7 @@ const AddRecord = () => {
             Add New Expense
           </h3>
           <p className='text-xs text-gray-500 dark:text-gray-400 mt-0.5'>
-            Track your spending with AI assistance
+            Track your spending 
           </p>
         </div>
       </div>
@@ -128,7 +128,7 @@ const AddRecord = () => {
             {isCategorizingAI && (
               <div className='flex items-center gap-2 text-xs text-emerald-600 dark:text-emerald-400'>
                 <div className='w-1.5 h-1.5 bg-emerald-500 dark:bg-emerald-400 rounded-full animate-pulse'></div>
-                AI is analyzing your description...
+                Analyzing your description...
               </div>
             )}
           </div>
